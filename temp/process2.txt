@@ -1,0 +1,12 @@
+SCHEDULED    TO                AIRLINE                     FLIGHT       TERMINAL     STATUS         
+----------   ---------------   -------------------------   ----------   ----------   ---------------
+11:00        Dubai             FlyDubai                    LX982        T2           Delayed-11:50  
+10:50        Dhaka             Biman-Bangladesh            NH987        T1           Expected       
+10:20        Manila            ANA-Airways                 PN787        T1           Gate-Open      
+10:00        Munich            Singapore-Airlines          SM893        T2           Departed       
+9:20         Moscow            SQ-Airlines                 NZ452        T1           Departed       
+9:00         Cebu              Cebu-Pacific                5J548        T3           Cancelled      
+8:15         Kolkata           FlyScout.com                CA970        T1           Departed       
+7:30         Paris             Singapore-Airlines          SK804        T2           Departed       
+06:30        Seoul             Air-Canada                  VA508        T3           Departed       
+06:00        Perth             Swiss-Airlines              SQ225        T2           Departed       

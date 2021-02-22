@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491592728 source:c:\users\salim hosen\desktop\project personalize\flying\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+

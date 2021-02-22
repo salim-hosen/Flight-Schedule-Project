@@ -1,0 +1,13 @@
+SCHEDULED    FROM              AIRLINE                     FLIGHT       TERMINAL     STATUS         
+----------   ---------------   -------------------------   ----------   ----------   ---------------
+11:00        Doha              Air-France                  FZ337        T2           Expected-11:05 
+10:30        Hyderabad         Air-India-Express           SG112        T3           Delayed-11:30  
+10:00        Dhaka             Biman-Bangladesh            BG046        T1           Arrived        
+09:30        Delhi             Air-India                   AI966        T2           Cancelled      
+9:00         Beijing           Chaina-Airlines             CA942        T1           Arrived        
+08:25        Cape-Town         Air-Algeric                 ME430        T1           Arrived        
+07:50        Riyadh            Air-Blue                    FZ884        T2           Arrived        
+07:30        Chennai           Air-India                   EK547        T1           Arrived        
+06:50        Dublin            DaLLo-Airline               MK992        T2           Arrived        
+06:30        Cairo             CEBU-Pacific                EK924        T3           Arrived        
+06:00        Barcelona         British-Airways             EK186        T3           Arrived        
